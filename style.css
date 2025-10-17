@@ -285,7 +285,7 @@ canvas {
   position: absolute;
   top: 0;
   left: 50%;
-  width: 335px;
+  width: 703px;
   -webkit-transform: translate(-50%, -28%);
   transform: translate(-50%, -28%);
   z-index: -2;
@@ -297,13 +297,13 @@ canvas {
 
 @media (max-width: 1500px) {
   .main-section .hero-section .hero-section-text .name-logo {
-    width: 300px;
+    width: 602px;
   }
 }
 
 @media (max-width: 650px) {
   .main-section .hero-section .hero-section-text .name-logo {
-    width: 230px;
+    width: 480px;
     top: -2em;
   }
 }
