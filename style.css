@@ -330,13 +330,13 @@ canvas {
 }
 
 .main-section .hero-section .about-section {
-  width: 70%;
+  width: 90%;
   max-width: 1200px;
   height: 700px;
   background: var(--lightDark);
   border-radius: 10px;
   position: fixed;
-  top: 30%;
+  top: 50%;
   left: 25%;
   pointer-events: none;
   -webkit-transform: translate(-50%, -45%) scale(0);
@@ -752,7 +752,7 @@ canvas {
 .main-section .hero-section .about-section.active {
   -webkit-transform: translate(-50%, -50%) scale(1);
   transform: translate(-50%, -50%) scale(1);
-  left: 37%;
+  left: 50%;
   pointer-events: all;
 }
 
